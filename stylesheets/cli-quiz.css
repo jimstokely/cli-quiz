@@ -1,0 +1,23 @@
+html {
+  font-family: Arial;
+}
+
+section {
+  font-family: Tahoma;
+  width: 65%;
+  border: 1px solid red;
+}
+
+span {
+  color: red;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.right_side {
+  float: right;
+  width: 30%;
+  border: 1px solid red;
+}
